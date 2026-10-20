@@ -13,3 +13,4 @@ See the dashboard screenshot and full project documentation inside the project f
 **Dataset:** 3,200 rows of synthetic data created for portfolio demonstration; not real company data.
 
 **Tools:** MySQL, Power BI Desktop, DAX, CSV.
+See the dashboard screenshot and full project documentation inside the project folder.
