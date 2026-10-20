@@ -1,0 +1,12 @@
+{
+  "rows": 3200,
+  "columns": 17,
+  "date_min": "2025-01-01",
+  "date_max": "2026-09-30",
+  "missing_values": {
+    "city": 10,
+    "customer_segment": 6,
+    "payment_method": 8
+  },
+  "synthetic_dataset": true
+}
